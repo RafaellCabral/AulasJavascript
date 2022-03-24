@@ -1,7 +1,7 @@
 /*let umaString = ' um texto';
 console.log(umaString + ' foi feito agora. ');
 console.log(`${umaString} foi feito agora. `); // isso é um template string*/
-
+//
 // indexOf busca elementos dentro da string
 // lastIndexOf busca de trás para frente
 // Replace vai substituir uma palavra por outra Replace( 'um ', 'outra');

@@ -6,7 +6,7 @@
 //const nomes = 'joao';
 //console.log(nomes);
 
-
+//
 // posso atribuir o valor de uma variável ou constante e atribuir a outra var ou const
 
 //const primeiroNumero = 0245577;

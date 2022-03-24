@@ -12,7 +12,7 @@ function agora() {
         const Idade = form.querySelector('.Idade');
         const Peso = form.querySelector('.Peso');
 
-
+//
         pessoas.push({
             Nome: Nome.value,
             Sobrenome: Sobrenome.value,
